@@ -1,12 +1,14 @@
 import React, { Component } from 'react';
 import './App.css';
+import './Components/bgstyle.css';
+import BgVideo from './Components/BgVideo';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        Bon-Voyage
-      </div>
+      <React.Fragment>
+        <BgVideo />
+      </React.Fragment>
     );
   }
 }
