@@ -9,21 +9,3 @@
   overflow: hidden;
   object-fit: cover;
 }
-
-.login {
-  width: 30%;
-  text-align: center;
-  padding-top: 20%;
-  margin: 0 auto;
-}
-
-.ui.button {
-  background: rgb(79, 178, 172);
-  color: white;
-}
-
-.login-card {
-  width: 100%;
-  background-color:green;
-}
-

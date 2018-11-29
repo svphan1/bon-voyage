@@ -4,13 +4,13 @@ import videowebm from '../img/video.webm';
 
 const BgVideo = () => {
   return (
-    <div>
+    <React.Fragment>
       <video className="bg-video__content" autoPlay muted loop>
         <source src={video} type="video/mp4"/>
         <source src={videowebm} type="video/webm"/>
         Your browser does not support the video tag.
       </video>
-    </div>
+    </React.Fragment>
   )
 };
 
