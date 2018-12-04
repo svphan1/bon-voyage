@@ -1,4 +1,5 @@
 import React from "react";
+import './style.css';
 import image from "../img/bon-voyage.jpg";
 import {
   Button,
@@ -12,7 +13,7 @@ import {
 
 const Login = () => {
   return (
-    <React.Fragment className="login-card">
+    <React.Fragment>
       <style>{`
       body > div,
       body > div > div,
@@ -49,6 +50,9 @@ const Login = () => {
 
               <Button color="teal" fluid size="large">
                 Login
+              </Button>
+              <Button color="teal" fluid size="large">
+                Login as Guest
               </Button>
             </Segment>
           </Form>
