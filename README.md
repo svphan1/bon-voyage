@@ -1,10 +1,10 @@
 # Bon-Voyage 
-## A travel app that will allow users to:
-## -login/signup with OAuth
-## -add and delete travel destinations with interactable map functionality
-## -ability to add friends and share travel data
-## -ability to see destinations that friends have traveled to and want to travel to
-## -message friends
+A travel app that will allow users to: <br />
+-login/signup with OAuth <br />
+-add and delete travel destinations with interactable map functionality <br />
+-ability to add friends and share travel data <br />
+-ability to see destinations that friends have traveled to and want to travel to <br />
+-message friends <br />
 
 In Progress. Current deployed link: http://bon-voyage-phan.surge.sh
 
